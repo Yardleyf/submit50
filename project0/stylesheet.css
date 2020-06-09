@@ -1,0 +1,44 @@
+body.index {
+    background-color: orange;
+    font-size: large;
+    font-style: italic;
+}
+
+body.yardley {
+    background-color: blue;
+    font-size: large;
+}
+
+body.Great {
+    background-color: purple;
+    font-size: large;
+    font-style: italic;
+}
+
+body.xbox {
+    background-color: green;
+    font-size: large;
+    font-style: italic;
+}
+
+body.future {
+    background-color: white;
+    font-size: large;
+    font-style: italic;
+}
+
+table {
+    table-layout: fixed;
+    width: 40%;
+    border: 1px solid red;
+}
+
+td {
+    border: 1px solid blue;
+    text-align: left;
+    overflow: hidden;
+}
+
+caption {
+    font-size: larger;
+}
